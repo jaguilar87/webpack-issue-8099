@@ -6,3 +6,5 @@
 npm install
 npm start
 ```
+
+Check generated files inside of `dist` folder.
